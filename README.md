@@ -35,7 +35,7 @@ Key features include:
 ## 💡 Key pointers to look at
 #### Check Google Play Service availability
 By using [GoogleApiAvailability](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability) class, we create a new function to verify if Google Play Services are available.
-```
+```kotlin
 private fun isGooglePlayServicesAvailable(): Boolean {
         val googleApiAvailability: GoogleApiAvailability = GoogleApiAvailability.getInstance()
         val status: Int = googleApiAvailability.isGooglePlayServicesAvailable(this@MainActivity)
@@ -44,7 +44,7 @@ private fun isGooglePlayServicesAvailable(): Boolean {
 ```
 #### Determine device orientation
 By utilizing [calculateWindowSizeClass](https://developer.android.com/reference/kotlin/androidx/compose/material3/windowsizeclass/package-summary#calculateWindowSizeClass(android.app.Activity)), if it returns WindowWidthSizeClass of Expanded, we know that the device is in landscape mode and can adjust the position of the image and text accordingly:
-```
+```kotlin
 val isExpandedScreen =
                 calculateWindowSizeClass(this).widthSizeClass == WindowWidthSizeClass.Expanded
 ```
