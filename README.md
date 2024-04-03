@@ -1,3 +1,4 @@
+[![Android build](https://github.com/AmazonAppDev/hello-world-fire-tablet/actions/workflows/android.yml/badge.svg)](https://github.com/AmazonAppDev/hello-world-fire-tablet/actions/workflows/android.yml)
 # 🔥 Hello World Fire Tablet App
 
 _Learn how to create a simple Fire Tablet app and get it running in 5 minutes_
