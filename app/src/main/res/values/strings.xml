@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World Fire Tablet</string>
+    <string name="android_content_description">Android</string>
+    <string name="fos_content_description">Fire OS</string>
+    <string name="other_content_description">Other</string>
+    <string name="amazon_appstore_identifier">com.amazon.venezia</string>
+    <string name="tablet_expanded_screen">This screen width is Expanded</string>
+    <string name="tablet_not_expanded_screen">This screen width is not Expanded</string>
+</resources>
