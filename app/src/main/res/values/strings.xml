@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~  Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+  ~ SPDX-License-Identifier: MIT-0
+  -->
 <resources>
     <string name="app_name">Hello World Fire Tablet</string>
     <string name="android_content_description">Android</string>

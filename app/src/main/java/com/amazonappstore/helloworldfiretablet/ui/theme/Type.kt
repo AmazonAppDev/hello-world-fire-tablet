@@ -1,3 +1,7 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
+
 package com.amazonappstore.helloworldfiretablet.ui.theme
 
 import androidx.compose.material3.Typography
