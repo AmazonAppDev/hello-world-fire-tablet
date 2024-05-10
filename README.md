@@ -3,10 +3,12 @@
 
 _Learn how to create a simple Fire Tablet app and get it running in 5 minutes_
 
+This project is a sample Hello World Fire tablet app that detects Google Play Services or Amazon Appstore services and adapts its UI based on the screen orientation using Jetpack Compose. Get your app up and running in just 5 minutes! ⏰📱
+
 <img src="./images/landscape.png" width="600" height="400" />
 <img src="./images/fire_portrait.png" width="400" height="600" />
 
-This project is a sample Hello World Fire tablet app that detects Google Play Services or Amazon Appstore services and adapts its UI based on the screen orientation using Jetpack Compose. Get your app up and running in just 5 minutes! ⏰📱
+
 
 ## Prerequisites
 
